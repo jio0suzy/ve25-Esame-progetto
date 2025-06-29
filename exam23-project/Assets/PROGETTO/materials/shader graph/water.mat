@@ -103,10 +103,10 @@ Material:
     m_Colors:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _deepColor: {r: 0.5322179, g: 0.82601, b: 0.9811321, a: 0}
+    - _deepColor: {r: 0.28368637, g: 0.6393141, b: 0.8018868, a: 0.69411767}
     - _metallic: {r: 0, g: 0, b: 0, a: 0}
-    - _shallowColor: {r: 0.72169816, g: 0.91199666, b: 0.9622642, a: 0}
-    - _smoothness: {r: 0, g: 0, b: 0, a: 0}
+    - _shallowColor: {r: 0.7122642, g: 0.94366014, b: 1, a: 0.6509804}
+    - _smoothness: {r: 0.32, g: 1.89, b: 0, a: 0}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
 --- !u!114 &57051671385308564
