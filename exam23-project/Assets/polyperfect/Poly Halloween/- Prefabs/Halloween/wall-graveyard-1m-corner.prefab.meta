@@ -1,8 +1,7 @@
 fileFormatVersion: 2
-guid: 2ff5d598b6f42fe43ac7174836a512be
-NativeFormatImporter:
+guid: 8032b61f51e3ff342ad0e9db0738f8be
+PrefabImporter:
   externalObjects: {}
-  mainObjectFileID: 8574412962073106934
   userData: 
   assetBundleName: 
   assetBundleVariant: 
@@ -11,5 +10,5 @@ AssetOrigin:
   productId: 236625
   packageName: Poly Halloween
   packageVersion: 1.0.1
-  assetPath: Assets/polyperfect/Poly Halloween/- Demo Scenes/Terrain/terrain-dirt-layer.terrainlayer
+  assetPath: Assets/polyperfect/Poly Halloween/- Prefabs/Halloween/wall-graveyard-1m-corner.prefab
   uploadId: 543283
